@@ -1,0 +1,11 @@
+{
+  "files.associations": {
+    "*.js": "javascript",
+    "iostream": "cpp",
+    "chrono": "cpp",
+    "string": "cpp",
+    "string_view": "cpp",
+    "iosfwd": "cpp",
+    "array": "cpp"
+  }
+}
